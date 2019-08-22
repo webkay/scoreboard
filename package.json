@@ -2,11 +2,22 @@
   "dependencies": {
     "@rails/webpacker": "^3.6.0",
     "babel-preset-react": "^6.24.1",
+    "cryptiles": "^4.1.2",
+    "debug": "^2.6.9",
+    "deep-extend": "^0.5.1",
+    "fstream": "^1.0.12",
+    "hoek": "^4.2.1",
+    "js-yaml": "^3.13.1",
+    "lodash.template": "^4.5.0",
+    "macaddress": "^0.2.9",
     "prop-types": "^15.5.10",
+    "randomatic": "^3.0.0",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "sshpk": "^1.13.2",
+    "stringstream": "^0.0.6"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.1.11"
+    "webpack-dev-server": "^3.8.0"
   }
 }
